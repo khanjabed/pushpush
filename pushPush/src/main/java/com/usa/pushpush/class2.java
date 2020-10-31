@@ -2,5 +2,7 @@ package com.usa.pushpush;
 
 public class class2 {
 
-  System.out.println();
+  public static void main(String[] args) {
+	System.out.println("for branch");
+}
 }
